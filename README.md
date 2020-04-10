@@ -1,5 +1,3 @@
-# peerozoblog
-
 ## Getting Started
 
 Make sure you are using a virtual environment of some sort (e.g. `virtualenv` or
